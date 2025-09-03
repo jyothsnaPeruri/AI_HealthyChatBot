@@ -112,5 +112,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### **Contact**
 
-- **Your Name/GitHub Profile**: [Your Name/Your GitHub Profile Link]
-- **Project Link**: `https://github.com/YourUsername/AI_HealthyChatBot`
+- **Your Name/GitHub Profile**: https://github.com/jyothsnaPeruri
+- **Project Link**: `https://github.com/jyothsnaPeruri/AI_HealthyChatBot`
