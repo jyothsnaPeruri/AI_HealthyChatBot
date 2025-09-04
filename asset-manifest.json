@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI_HealthyChatBot/static/css/main.7972dace.css",
+    "main.js": "/AI_HealthyChatBot/static/js/main.96ec224d.js",
+    "static/js/453.419a5d54.chunk.js": "/AI_HealthyChatBot/static/js/453.419a5d54.chunk.js",
+    "index.html": "/AI_HealthyChatBot/index.html",
+    "main.7972dace.css.map": "/AI_HealthyChatBot/static/css/main.7972dace.css.map",
+    "main.96ec224d.js.map": "/AI_HealthyChatBot/static/js/main.96ec224d.js.map",
+    "453.419a5d54.chunk.js.map": "/AI_HealthyChatBot/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7972dace.css",
+    "static/js/main.96ec224d.js"
+  ]
+}
